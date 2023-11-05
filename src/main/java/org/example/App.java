@@ -5,7 +5,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
-import ru.skillfactory.entity.Event;
+import org.example.entity.Event;
 
 import java.util.Date;
 import java.util.List;
